@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
-//  Direction
 //
 //  Created by Andrew Halls on 13/11/17.
-//  Copyright © 2017 Andrew Halls. All rights reserved.
 //
 
 import UIKit

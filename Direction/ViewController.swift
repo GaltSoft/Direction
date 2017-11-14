@@ -1,6 +1,5 @@
 //
 //  ViewController.swift
-//  Direction
 //
 //  Created by Andrew Halls on 13/11/17.
 //

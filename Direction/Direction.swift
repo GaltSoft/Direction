@@ -1,15 +1,13 @@
 //
 //  Direction.swift
-//  Direction
 //
 //  Created by Andrew Halls on 13/11/17.
-//  Copyright © 2017 Andrew Halls. All rights reserved.
 //
 
 import Foundation
 
-// Based on thi spoist
-//https://theswiftdev.com/2017/10/12/swift-enum-all-values/??
+// Based on Tibor Bödecs post
+// https://theswiftdev.com/2017/10/12/swift-enum-all-values/??
 
 import Foundation
 
@@ -53,6 +51,5 @@ enum Direction : Int, EnumCollection {
     }
     
 }
-print(Direction.south.description)
 
 
